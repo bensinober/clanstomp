@@ -10,9 +10,9 @@ using micro switches and a led to display status / notes sent to USB host / Samp
 
 TODO:
 
-[] Hook up another switch to use as tap tempo / bpm command messages
+- [ ] Hook up another switch to use as tap tempo / bpm command messages
 
-[] Find a way to send or trigger midi clips in sampler
+- [ ] Find a way to send or trigger midi clips in sampler
 
 
 ## Code
